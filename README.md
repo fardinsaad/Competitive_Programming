@@ -1,6 +1,7 @@
 # Competitive Programming 
 
 Welcome to my competitive programming repository! This collection contains all the solutions I implemented during my competitive programming days as an undergraduate. The solutions are mainly written in **C** and **C++**, and they cover a wide variety of algorithmic problems from different online judges.
+You will find them in the source_code folder in this repo.
 
 ## About my Competitive Programming Journey
 
