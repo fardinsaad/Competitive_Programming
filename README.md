@@ -1,4 +1,6 @@
 # Competitive Programming 
+![Static Badge](https://img.shields.io/badge/Programming%20Language-C%2FC%2B%2B-blue?style=for-the-badge&logo=Codeforces&labelColor=black)
+
 
 Welcome to my competitive programming repository! This collection contains all the solutions I implemented during my competitive programming days as an undergraduate. The solutions are mainly written in **C** and **C++**, and they cover a wide variety of algorithmic problems from different online judges.
 You will find them in the source_code folder in this repo.
